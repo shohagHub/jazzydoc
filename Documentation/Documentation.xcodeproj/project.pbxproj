@@ -13,7 +13,7 @@
 		892A004024079430007D5668 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892A003E24079430007D5668 /* Main.storyboard */; };
 		892A004224079432007D5668 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 892A004124079432007D5668 /* Assets.xcassets */; };
 		892A004524079432007D5668 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892A004324079432007D5668 /* LaunchScreen.storyboard */; };
-		892A004D24079487007D5668 /* HealthDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892A004C24079487007D5668 /* HealthDataStore.swift */; };
+		892A004D24079487007D5668 /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892A004C24079487007D5668 /* Documentation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		892A004124079432007D5668 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		892A004424079432007D5668 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		892A004624079432007D5668 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		892A004C24079487007D5668 /* HealthDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthDataStore.swift; sourceTree = "<group>"; };
+		892A004C24079487007D5668 /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				892A004124079432007D5668 /* Assets.xcassets */,
 				892A004324079432007D5668 /* LaunchScreen.storyboard */,
 				892A004624079432007D5668 /* Info.plist */,
-				892A004C24079487007D5668 /* HealthDataStore.swift */,
+				892A004C24079487007D5668 /* Documentation.swift */,
 			);
 			path = Documentation;
 			sourceTree = "<group>";
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				892A003D24079430007D5668 /* ViewController.swift in Sources */,
-				892A004D24079487007D5668 /* HealthDataStore.swift in Sources */,
+				892A004D24079487007D5668 /* Documentation.swift in Sources */,
 				892A003924079430007D5668 /* AppDelegate.swift in Sources */,
 				892A003B24079430007D5668 /* SceneDelegate.swift in Sources */,
 			);
